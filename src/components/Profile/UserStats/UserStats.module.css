@@ -1,0 +1,25 @@
+.stats {
+    display: flex;
+    width: 100%;
+    text-align: center;
+    border-top: solid 1px gray;
+    background-color: rgb(235, 232, 232);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+  }
+  .stats > li:not(:last-child) {
+    border-right: solid 1px gray;
+  }
+  .stats > li {
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
+  .label {
+    font-weight: 500;
+  }
+  
+  .value {
+    font-weight: 600;
+  }
