@@ -20,5 +20,5 @@
     text-transform: capitalize;
   }
   .th {
-    width: 33.333%;
+    width: (100/3);
   }
