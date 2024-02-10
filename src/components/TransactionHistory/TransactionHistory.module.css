@@ -1,0 +1,24 @@
+.transactionHistory {
+    width: 100%;
+    border: black;
+    margin-top: 5px;
+    border-spacing: 0;
+  }
+  
+  .thead {
+    font-weight: 600;
+    color: white;
+    background-color: rgb(49, 46, 46);
+  }
+  .tbody {
+    text-align: center;
+  }
+  .tr:nth-child(even) {
+    background-color: rgb(192, 192, 192);
+  }
+  .text {
+    text-transform: capitalize;
+  }
+  .th {
+    width: 33.333%;
+  }
