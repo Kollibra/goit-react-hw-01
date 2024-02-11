@@ -10,8 +10,7 @@ import {TransactionHistory} from "./components/TransactionHistory/TransactionHis
 import './App.css'
 
 function App() {
-  // const [count, setCount] = useState(0)
-
+  
   return (
     <>
 
